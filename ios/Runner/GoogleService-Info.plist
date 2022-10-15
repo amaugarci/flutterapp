@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463456068964-dh2oof9cu47ktaf0frnbhu9pn188ufa4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463456068964-dh2oof9cu47ktaf0frnbhu9pn188ufa4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463456068964-294rblik2feu6dr344i29hodpeig6l70.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6S0oyPczZdrq-aqouPNyRbWgLIoKnAnE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463456068964</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.finance.upaychat</string>
+	<key>PROJECT_ID</key>
+	<string>upaychat-e53e2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>upaychat-e53e2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463456068964:ios:cad59ba25fc49e0d584671</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120399822560",
+    "project_id": "upaychat-test",
+    "storage_bucket": "upaychat-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120399822560:android:84d3dcfa0c4d926965da85",
+        "android_client_info": {
+          "package_name": "com.finance.upaychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120399822560-6hmunjk4k0ea23q5eab3n0hcrpu1uirm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8a9TynaiLvAw-JI077p_XRWbNXN78UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120399822560-6hmunjk4k0ea23q5eab3n0hcrpu1uirm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

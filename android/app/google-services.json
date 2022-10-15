@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "463456068964",
+    "project_id": "upaychat-e53e2",
+    "storage_bucket": "upaychat-e53e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463456068964:android:f53bb6b5a01e78ac584671",
+        "android_client_info": {
+          "package_name": "com.finance.upaychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463456068964-294rblik2feu6dr344i29hodpeig6l70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finance.upaychat",
+            "certificate_hash": "2ba30b396ee3ac768c5390bc949ae248c169b753"
+          }
+        },
+        {
+          "client_id": "463456068964-n62ji8go527in6vqmdd98buqtj30s289.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finance.upaychat",
+            "certificate_hash": "dce26e04c52ea9367da03f654e1b4d37faa6d0cc"
+          }
+        },
+        {
+          "client_id": "463456068964-2a77ck6gockh2lbcqr2s8rn6icpg4qf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8IsMU2Wt0vfs4Ba61OUidehP8xPwOHWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463456068964-2a77ck6gockh2lbcqr2s8rn6icpg4qf1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "463456068964-dh2oof9cu47ktaf0frnbhu9pn188ufa4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.finance.upaychat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
